@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(112, 110, 110);
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-90{
+    width: 90%;
+}
+.w-24{
+    width: 24%;
+}
+.w-250{
+    width: 250px;
+}
+.m-0{
+    margin: 0;
+}
+.m-auto{
+    margin: auto;
+}
+
+.b-1{
+    border: 1px solid white;
+}
+
+.ofitcon{
+    object-fit: contain;
+}
+.dflex{
+    display: flex;
+}
+
+.mauto{
+    margin: auto;
+}
+
+.jcon-01{
+    justify-content: auto;
+}
+
+.fcol{
+    flex-direction: column;
+}
+
+.frow{
+    flex-direction: row;
+}
+
+.bcol-blue{
+    background-color: blue;
+}
+
+.bcol-lightblue{
+    background-color: lightblue;
+}
+.col-white{
+    color: white;
+}
+
+.aself-01{
+    align-items: auto;
+}
+
+.jcbetween{
+    justify-content: space-between;
+}
