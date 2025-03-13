@@ -1,0 +1,32 @@
+.ofitcon{
+    object-fit: contain;
+}
+.dflex{
+    display: flex;
+}
+
+.dblock{
+    display: block;
+}
+.jcon-01{
+    justify-content: auto;
+}
+
+.fcol{
+    flex-direction: column;
+}
+
+.frow{
+    flex-direction: row;
+}
+.aself-01{
+    align-items: center;
+}
+
+.jcbetween{
+    justify-content: space-between;
+}
+
+.jcontent-center{
+    justify-content: center;
+}

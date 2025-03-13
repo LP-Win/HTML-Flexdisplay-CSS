@@ -1,0 +1,44 @@
+.bcol-blue{
+    background-color: #3268c2;
+}
+
+.bcol-lightblue{
+    background-color: #e8f0fa;
+}
+.bcol-lpurple{
+    background-color: #efebf5;
+}
+
+.bcol-white{
+    background-color: white;
+}
+.bcol-lgreen{
+    background-color: #e1f1ea;
+}
+.bcol-red{
+    background-color: red;
+}
+
+.col-white{
+    color: white;
+}
+.col-red{
+    color: red;
+}
+.col-purple{
+    color: #a493cf;
+}
+
+.col-orange{
+    color: orange;
+}
+.col-blue{
+    color: #2e69b4;
+}
+.col-green{
+    color: #72d8b0;
+}
+
+.bcol-gray{
+    background-color: #f4f5f6;
+}
